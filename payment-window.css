@@ -11,7 +11,7 @@
   display: none;
 }
 
-input, label {
+#epay_paymentcards_form input {
   font-family: 'Montserrat', sans-serif;
 }  
 
