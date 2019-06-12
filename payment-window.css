@@ -51,4 +51,9 @@ input::-webkit-input-placeholder {
     background: #54a8d1;
     border-radius: 7px;
     color: #ffffff;
-}  
+}
+
+#epay_exp_seperator {
+ line-height: 56px;
+ color: #a2a2a1; 
+}
