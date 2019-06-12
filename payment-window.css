@@ -42,15 +42,15 @@ input::-webkit-input-placeholder {
 }
 
 .epay_payment_button_light {
-    font-size: 16px;
-    font-weight: normal;
-    font-family: 'Montserrat', sans-serif;
-    margin: 0 16px;
-    width: 288px;
-    padding: 13px 20px;
-    background: #54a8d1;
-    border-radius: 7px;
-    color: #ffffff;
+  font-size: 16px;
+  font-weight: normal;
+  font-family: 'Montserrat', sans-serif;
+  margin: 0 16px;
+  width: 288px;
+  padding: 13px 20px;
+  background: #54a8d1;
+  border-radius: 7px;
+  color: #ffffff;
 }
 
 #epay_exp_seperator {
