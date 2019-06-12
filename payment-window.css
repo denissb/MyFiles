@@ -11,9 +11,13 @@
   display: none;
 }
 
+#epay_paymentcollection input,
+#epay_paymentcollection label {
+  font-family: 'Montserrat', sans-serif;
+}  
+
 #epay_paymentcollection {
   width: 320px; 
-  font-family: 'Montserrat', sans-serif;
 }  
 
 #epay_paymentcards_form ul li {
