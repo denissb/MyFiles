@@ -34,6 +34,8 @@ input::-webkit-input-placeholder {
   color: #464543;
 }
 
+#epay_paymentcards_form input
+
 #epay_paymentcollection input[type="tel"] {
   padding: 18px;
   border-radius: 7px;
@@ -52,6 +54,9 @@ input::-webkit-input-placeholder {
 }
 
 .epay_payment_button_light {
+  position: fixed;
+  bottom: 16px;
+  left: 0px;
   font-size: 16px;
   font-weight: normal;
   font-family: 'Montserrat', sans-serif;
