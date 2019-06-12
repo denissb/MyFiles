@@ -13,3 +13,8 @@
   margin-top: 16px;
   margin: 16px;
 }
+
+
+input::-webkit-input-placeholder {
+    color: #a2a2a1;
+}
