@@ -62,3 +62,7 @@ input::-webkit-input-placeholder {
  line-height: 56px;
  color: #a2a2a1; 
 }
+
+#epay_cvc_help {
+  margin-top: 16px;  
+}
