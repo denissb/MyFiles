@@ -6,10 +6,13 @@
 
 #epay_paymentinfo, 
 #epay_testmode_message,
-#epay_paymentcollection label
-{
+#epay_paymentcollection label {
   display: none;
 }
+
+#epay_paymentcollection {
+  width: 320px; 
+}  
 
 #epay_paymentcards_form ul li {
   margin-top: 16px;
@@ -19,3 +22,11 @@
 input::-webkit-input-placeholder {
     color: #a2a2a1;
 }
+
+.epay_payment_button_light {
+    margin: 0 16px;
+    width: 288px;
+    padding: 13px 20px;
+    background: #54a8d1;
+    border-radius: 7px;
+}  
