@@ -39,3 +39,7 @@ input::-webkit-input-placeholder {
     border-radius: 7px;
     color: #ffffff;
 }  
+
+#epay_paymentcollection input {
+  background: none;
+}  
