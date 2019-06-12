@@ -32,6 +32,13 @@ input::-webkit-input-placeholder {
   background: none;
 }
 
+#epay_paymentcollection input[type="tel"] {
+  padding: 18px;
+  border-radius: 7px;
+  border: 1px solid #ececec;
+  margin-bottom: 16px;
+}
+
 .epay_payment_button_light {
     font-size: 16px;
     font-weight: normal;
