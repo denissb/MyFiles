@@ -3,6 +3,7 @@
 *   Payment window styling
 *
 */
+@import url('https://fonts.googleapis.com/css?family=Montserrat&display=swap');
 
 #epay_paymentinfo, 
 #epay_testmode_message,
@@ -12,6 +13,7 @@
 
 #epay_paymentcollection {
   width: 320px; 
+  font-family: 'Montserrat', sans-serif;
 }  
 
 #epay_paymentcards_form ul li {
