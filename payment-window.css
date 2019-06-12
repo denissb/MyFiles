@@ -4,7 +4,8 @@
 *
 */
 
-#epay_paymentinfo {
+#epay_paymentinfo, 
+#epay_testmode_message {
   display: none;
 }
 
