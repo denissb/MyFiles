@@ -37,6 +37,8 @@ input::-webkit-input-placeholder {
   border-radius: 7px;
   border: 1px solid #ececec;
   margin-bottom: 16px;
+  height: auto;
+  font-size: 14px;
 }
 
 .epay_payment_button_light {
