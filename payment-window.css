@@ -30,6 +30,10 @@ input::-webkit-input-placeholder {
 
 #epay_paymentcards_form input {
   background: none;
+  padding: 18px;
+  border-radius: 7px;
+  border: 1px solid #ececec;
+  margin-bottom: 16px;
 }
 
 .epay_payment_button_light {
