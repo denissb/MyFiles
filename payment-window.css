@@ -16,7 +16,8 @@
 }  
 
 #epay_paymentcollection {
-  width: 320px; 
+  width: 320px;
+  margin: 0 auto;
 }  
 
 #epay_paymentcards_form ul li {
