@@ -9,3 +9,7 @@
   display: none;
 }
 
+#epay_paymentcards_form ul li {
+  margin-top: 16px;
+  margin: 16px;
+}
