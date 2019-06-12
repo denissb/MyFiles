@@ -28,11 +28,11 @@ input::-webkit-input-placeholder {
     color: #a2a2a1;
 }
 
-#epay_paymentcollection input {
+#epay_paymentcards_form input {
   background: none;
 }
 
-#epay_paymentcollection input.epay_payment_button_light {
+.epay_payment_button_light {
     font-size: 16px;
     font-weight: normal;
     font-family: 'Montserrat', sans-serif;
