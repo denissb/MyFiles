@@ -43,6 +43,10 @@ input::-webkit-input-placeholder {
   font-size: 14px;
 }
 
+#epay_paymentcollection input[type="tel"].invalid {
+  border: 1px solid #ca3a3a;
+}
+
 #epay_paymentcollection input[type="tel"].epay_cardno_input {
   width: 250px;
 }
