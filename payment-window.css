@@ -34,8 +34,6 @@ input::-webkit-input-placeholder {
   color: #464543;
 }
 
-#epay_paymentcards_form input
-
 #epay_paymentcollection input[type="tel"] {
   padding: 18px;
   border-radius: 7px;
