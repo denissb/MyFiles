@@ -32,7 +32,7 @@ input::-webkit-input-placeholder {
   background: none;
 }
 
-#epay_paymentcollection input .epay_payment_button_light {
+#epay_paymentcollection input.epay_payment_button_light {
     font-size: 16px;
     font-weight: normal;
     font-family: 'Montserrat', sans-serif;
