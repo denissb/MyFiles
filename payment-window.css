@@ -11,8 +11,7 @@
   display: none;
 }
 
-#epay_paymentcollection input,
-#epay_paymentcollection label {
+input, label {
   font-family: 'Montserrat', sans-serif;
 }  
 
