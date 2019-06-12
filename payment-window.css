@@ -31,6 +31,7 @@ input::-webkit-input-placeholder {
 
 #epay_paymentcards_form input {
   background: none;
+  color: #464543;
 }
 
 #epay_paymentcollection input[type="tel"] {
